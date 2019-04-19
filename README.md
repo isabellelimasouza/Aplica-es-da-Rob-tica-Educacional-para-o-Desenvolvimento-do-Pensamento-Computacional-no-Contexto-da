@@ -15,4 +15,5 @@
 
 ## Documentos
 
-[Apendice A](ApenB.pdf)
+[Atividades da Robótica Autodescoberta](Robotica_Autodescoberta.pdf)
+[Prova do Bebras](Prova_Bebras_2015.pdf)
