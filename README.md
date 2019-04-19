@@ -15,12 +15,24 @@
 
 ## Documentos
 
+[Prova do Bebras](Prova_Bebras_2015.pdf)
+
 [Atividades da Robótica Autodescoberta](Robotica_Autodescoberta.pdf)
 
 [Prova do Bebras](Programa_Robotica_Fund_Computacao.pdf)
 
-[Prova do Bebras](Prova_Bebras_2015.pdf)
+### Atividades da Robótica Fundamentada em Computação
 
-[Prova do Bebras](Prova_Bebras_2015.pdf)
+[Aula 01](Aula_01.pdf)
+
+[Aula 02](Aula_02.pdf)
+
+[Aula 03](Aula_03.pdf)
+
+[Aula 04](Aula_04.pdf)
+
+[Aula 05](Aula_05.pdf)
+
+[Aula 06](Aula_06.pdf)
 
 
