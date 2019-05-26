@@ -13,14 +13,28 @@
 **Linha de Pesquisa:** Educação em Ciência da Computação
 
 
-## Instrumentos de Coleta da Dados
+### Documentos do Comitê de Ética
+
+[Comprovante de Envio do Projeto: Plataforma Brasil](Comprovante_Plataforma_Brasil.pdf)
+
+[Convite das Escolas](Convite_Escola.pdf)
+
+[Termo_Anuencia](Termo_Anuencia_Direcao.pdf)
+
+[Termo de Compromisso de Divulgação dos Resultados] (Termo de Compromisso de divulgação dos resultados_Isabelle.pdf)
+
+[Termo de Consentimento e Livre Esclarecido](Termo de consentimento e livre esclarecido_Isabelle.pdf)
+
+[Termo Assentimento de Menor](Termo_ Assentimento_De_Menor.pdf)
+
+
+### Instrumentos de Coleta da Dados
 
 [Prova do Bebras](Prova_Bebras_2015.pdf)
 
-[Survey dos Estudantes](Prova_Bebras_2015.pdf)
+[Survey dos Estudantes](Questionário_1_Perfil Alunos.pdf)
 
-[Survey dos Professores](Prova_Bebras_2015.pdf)
-
+[Survey dos Professores](Questionário 3 - Observação Professor.pdf)
 
 
 ### Robótica Autodescoberta
