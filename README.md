@@ -23,9 +23,9 @@
 
 [Termo de Compromisso de Divulgação dos Resultados](Termo_Compromisso)
 
-[Termo de Consentimento e Livre Esclarecido](Termo de consentimento e livre esclarecido_Isabelle.pdf)
+[Termo de Consentimento e Livre Esclarecido](Termo_livre_esclarecido)
 
-[Termo Assentimento de Menor](Termo_ Assentimento_De_Menor.pdf)
+[Termo Assentimento de Menor](Termo_Assentimento_De_Menor.pdf)
 
 
 ### Instrumentos de Coleta da Dados
