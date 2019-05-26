@@ -62,18 +62,44 @@
 
 [Programa de Curso](Programa_Robotica_Fund_Computacao.pdf)
 
-[Aula 01](Aula_01.pdf)
-
-[Aula 02](Aula_02.pdf)
-
-[Aula 03](Aula_03.pdf)
-
-[Aula 04](Aula_04.pdf)
-
-[Aula 05](Aula_05.pdf)
-
-[Aula 06](Aula_06.pdf)
-
 [Lista de Exercícios](Lista_Exercicios.pdf)
 
 
+#### Aula 01
+
+[Material de Aula](Aula_01.pdf)
+
+[Vídeo: As 3 Leis da Robótica!](https://www.youtube.com/watch?v=f462JqIyjHw)
+
+[Vídeo: O que é Robótica?](https://www.youtube.com/watch?v=Pk5asclZFAA)
+
+
+#### Aula 02
+
+[Material de Aula](Aula_02.pdf)
+
+[Vídeo: Entrevista com Sophia](https://www.youtube.com/watch?v=M3_5B5JjlvA&t=34s)
+
+[Vídeo: O Bolo do Chaves e Quico](Chaves.mp4)
+
+
+#### Aula 03
+
+[Material de Aula](Aula_03.pdf)
+
+
+#### Aula 04
+
+[Material de Aula](Aula_04.pdf)
+
+[Atividade](Atividade.pdf)
+
+
+#### Aula 05
+
+[Material de Aula](Aula_05.pdf)
+
+
+#### Aula 06
+
+[Material de Aula](Aula_06.pdf)
