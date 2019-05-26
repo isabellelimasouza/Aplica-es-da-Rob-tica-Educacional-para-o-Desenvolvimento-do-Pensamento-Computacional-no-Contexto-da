@@ -21,7 +21,7 @@
 
 [Termo Anuencia](Termo_Anuencia_Direcao.pdf)
 
-[Termo de Compromisso de Divulgação dos Resultados](Termo de Compromisso de divulgação dos resultados_Isabelle.pdf)
+[Termo de Compromisso de Divulgação dos Resultados](Termo_Compromisso)
 
 [Termo de Consentimento e Livre Esclarecido](Termo de consentimento e livre esclarecido_Isabelle.pdf)
 
