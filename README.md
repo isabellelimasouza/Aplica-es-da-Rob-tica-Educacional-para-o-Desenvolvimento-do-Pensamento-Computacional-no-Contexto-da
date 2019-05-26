@@ -39,9 +39,24 @@
 
 ### Robótica Autodescoberta
 
-[Atividades 01: wall-e em Ação](Robotica_Autodescoberta.pdf)
+#### Atividade 01: wall-e em Ação
 
-[Atividades 01: O Atrituto do Imrão do Jorel](Robotica_Autodescoberta.pdf)
+[Plano de Aula](Plano_Aula_Atividade_01.pdf)
+
+[Material de Aula](Plano_Aula_Atividade_01.pdf)
+
+[Vídeo: Dia de Trabalho de Wall-e](https://www.youtube.com/watch?v=WB8LrCWmGYw)
+
+[Atividade](Atividade.pdf)
+
+#### Atividade 01: O Atrituto do Imrão do Jorel
+
+[Plano de Aula](Plano_Aula_Atividade_02.pdf)
+
+[Material de Aula](Plano_Aula_Atividade_02.pdf)
+
+[Vídeo: Irmão do Jorel - Temporada 2 Ep 6 - Excursão Alucinante Sem Freio](https://www.youtube.com/watch?v=tcpHlPU3LuY)
+
 
 ### Robótica Fundamentada em Computação
 
