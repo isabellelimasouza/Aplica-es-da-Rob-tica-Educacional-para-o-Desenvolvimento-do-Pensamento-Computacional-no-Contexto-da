@@ -32,9 +32,9 @@
 
 [Prova do Bebras](Prova_Bebras_2015.pdf)
 
-[Survey dos Estudantes](Questionário_1_Perfil Alunos.pdf)
+[Survey dos Estudantes](Survey_Estudantes.pdf)
 
-[Survey dos Professores](Questionário 3 - Observação Professor.pdf)
+[Survey dos Professores](Survey_Professor.pdf)
 
 
 ### Robótica Autodescoberta
