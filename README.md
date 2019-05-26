@@ -19,9 +19,9 @@
 
 [Convite das Escolas](Convite_Escola.pdf)
 
-[Termo_Anuencia](Termo_Anuencia_Direcao.pdf)
+[Termo Anuencia](Termo_Anuencia_Direcao.pdf)
 
-[Termo de Compromisso de Divulgação dos Resultados] (Termo de Compromisso de divulgação dos resultados_Isabelle.pdf)
+[Termo de Compromisso de Divulgação dos Resultados](Termo de Compromisso de divulgação dos resultados_Isabelle.pdf)
 
 [Termo de Consentimento e Livre Esclarecido](Termo de consentimento e livre esclarecido_Isabelle.pdf)
 
