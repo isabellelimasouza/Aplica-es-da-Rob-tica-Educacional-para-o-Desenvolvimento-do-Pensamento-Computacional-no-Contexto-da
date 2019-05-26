@@ -74,4 +74,6 @@
 
 [Aula 06](Aula_06.pdf)
 
+[Lista de Exercícios](Lista de Exercícios.pdf)
+
 
