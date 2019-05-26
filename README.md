@@ -13,15 +13,25 @@
 **Linha de Pesquisa:** Educação em Ciência da Computação
 
 
-## Documentos
+## Instrumentos de Coleta da Dados
 
 [Prova do Bebras](Prova_Bebras_2015.pdf)
 
-[Atividades da Robótica Autodescoberta](Robotica_Autodescoberta.pdf)
+[Survey dos Estudantes](Prova_Bebras_2015.pdf)
 
-[Prova do Bebras](Programa_Robotica_Fund_Computacao.pdf)
+[Survey dos Professores](Prova_Bebras_2015.pdf)
 
-### Atividades da Robótica Fundamentada em Computação
+
+
+### Robótica Autodescoberta
+
+[Atividades 01: wall-e em Ação](Robotica_Autodescoberta.pdf)
+
+[Atividades 01: O Atrituto do Imrão do Jorel](Robotica_Autodescoberta.pdf)
+
+### Robótica Fundamentada em Computação
+
+[Peograma de Curso](Programa_Robotica_Fund_Computacao.pdf)
 
 [Aula 01](Aula_01.pdf)
 
