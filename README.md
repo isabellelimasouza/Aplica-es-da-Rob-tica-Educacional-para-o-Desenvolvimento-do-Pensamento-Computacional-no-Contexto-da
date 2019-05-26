@@ -60,7 +60,7 @@
 
 ### Robótica Fundamentada em Computação
 
-[Peograma de Curso](Programa_Robotica_Fund_Computacao.pdf)
+[Programa de Curso](Programa_Robotica_Fund_Computacao.pdf)
 
 [Aula 01](Aula_01.pdf)
 
@@ -74,6 +74,6 @@
 
 [Aula 06](Aula_06.pdf)
 
-[Lista de Exercícios](Lista de Exercícios.pdf)
+[Lista de Exercícios](Lista_Exercicios.pdf)
 
 
