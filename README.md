@@ -1,41 +1,41 @@
 # ----------------------------- IN ENGLISH -----------------------------
-## Documentos do trabalho de Dissertação submetida à Coordenação do Curso de Pós-Graduação em Ciência da Computação da Universidade Federal de Campina Grande - Campus I como parte dos requisitos necessários para obtenção do graude Mestre em Ciência da Computação
+## Documents submitted to the Coordination of the Postgraduate in Computer Science at the Federal University of Campina Grande. These documents are part of the necessary requirements to obtain the Master's degree in Computer Science.
 
-**Dissetação:** Aplicações da Robótica Educacional para o Desenvolvimento do Pensamento Computacional no Contexto da Educação Básica
+**Dissertation Title:** Aplicações da Robótica Educacional para o Desenvolvimento do Pensamento Computacional no Contexto da Educação Básica
 
-**Aluna:** Isabelle Maria Lima de Souza
+**Author:** Isabelle Maria Lima de Souza
 
-**Orientadora:** Lívia Maria Rodrigues Sampaio Campos
+**Advisor:** Lívia Maria Rodrigues Sampaio Campos
 
-**Co-Orientador:** Wilkerson de Lucena Andrade
+**Co-Advisor:** Wilkerson de Lucena Andrade
 
-**Área de Concentração:** Ciência da Computação
+**Concentration Area:** Computer Science
 
-**Linha de Pesquisa:** Educação em Ciência da Computação
-
-
-### Documentos do Comitê de Ética
-
-[Comprovante de Envio do Projeto: Plataforma Brasil](Comprovante_Plataforma_Brasil.pdf)
-
-[Convite das Escolas](Convite_Escola.pdf)
-
-[Termo Anuencia](Termo_Anuencia_Direcao.pdf)
-
-[Termo de Compromisso de Divulgação dos Resultados](Termo_Compromisso)
-
-[Termo de Consentimento e Livre Esclarecido](Termo_livre_esclarecido)
-
-[Termo Assentimento de Menor](Termo_Assentimento_De_Menor.pdf)
+**Line of Research:** Computer Science Education
 
 
-### Instrumentos de Coleta da Dados
+### Ethics Committee Documentsa
 
-[Prova do Bebras](Prova_Bebras_2015.pdf)
+[Proof of Project Submission: Plataforma Brasil](Comprovante_Plataforma_Brasil.pdf)
 
-[Survey dos Estudantes](Survey_Estudantes.pdf)
+[Schools Invitation](Convite_Escola.pdf)
 
-[Survey dos Professores](Survey_Professor.pdf)
+[Consent Term ](Termo_Anuencia_Direcao.pdf)
+
+[Results Disclosure Commitment Term](Termo_Compromisso)
+
+[Consentment and Free Informed Term](Termo_livre_esclarecido)
+
+[Minor Consent Term](Termo_Assentimento_De_Menor.pdf)
+
+
+### Data Collection Tools
+
+[Bebras Challenge](Prova_Bebras_2015.pdf)
+
+[Students Survey](Survey_Estudantes.pdf)
+
+[Teachers Survey](Survey_Professor.pdf)
 
 
 ### Self-Discovering Robotics Course
