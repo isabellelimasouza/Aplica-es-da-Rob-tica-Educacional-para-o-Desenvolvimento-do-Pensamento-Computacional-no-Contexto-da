@@ -14,7 +14,7 @@
 **Line of Research:** Computer Science Education
 
 
-### Ethics Committee Documentsa
+### Ethics Committee Documents
 
 [Proof of Project Submission: Plataforma Brasil](Comprovante_Plataforma_Brasil.pdf)
 
